@@ -19,9 +19,9 @@ export default async function CreatePost() {
   let categories = await getCategories();
   const handleSubmit = async (formData: FormData) => {
     "use server";
-    const data = {};
-
-    for (const [key, value] of formData.entries()) {
+    const data = {} as any;
+    formData.entries();
+    for (const [key, value] of formData.entries() as any) {
       data[key] = value;
     }
 
