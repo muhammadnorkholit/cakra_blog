@@ -6,7 +6,7 @@ export default function Toggle({
   setToggle,
 }: {
   toggle: boolean;
-  setToggle: (event: boolean) => {};
+  setToggle: (event: boolean) => void;
 }) {
   return (
     <div className="menu gap-2 flex">
