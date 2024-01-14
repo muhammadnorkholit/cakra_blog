@@ -1,0 +1,64 @@
+{
+  "kategori": [
+    {
+      "name": "Music",
+      "posts": [
+        { "title": "10 Lagu Terpopuler Tahun Ini", "author": "John Doe" },
+        { "title": "Tutorial Bermain Gitar", "author": "Jane Smith" },
+        { "title": "Review Album Terbaru", "author": "Michael Johnson" },
+        { "title": "Playlist Terbaik Minggu Ini", "author": "Emily Brown" },
+        { "title": "Profil Band Favorit Anda", "author": "David Lee" },
+        { "title": "Top Hits Musim Panas", "author": "Sarah Miller" },
+        { "title": "Behind the Music: Kisah Artis", "author": "Andrew Wilson" },
+        { "title": "Konser Live Streaming", "author": "Olivia Clark" },
+        { "title": "Sejarah Musik Populer", "author": "Matthew Garcia" },
+        {
+          "title": "Tips Menjadi Penyanyi Profesional",
+          "author": "Sophia Martinez"
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "posts": [
+        { "title": "Tren Fashion Musim Panas", "author": "Alice Johnson" },
+        { "title": "Tips Berpakaian Stylish", "author": "Michael Brown" },
+        { "title": "Rahasia Perawatan Kulit", "author": "Emma Davis" },
+        { "title": "Branding di Dunia Fashion", "author": "William Robinson" },
+        {
+          "title": "Pakaian Terbaik untuk Acara Formal",
+          "author": "Sophie Wilson"
+        },
+        { "title": "Aksesoris Tren Terkini", "author": "Daniel Moore" },
+        { "title": "Inspirasi Desain Pakaian", "author": "Victoria Garcia" },
+        { "title": "Model Terkenal Dunia", "author": "Alexander Brown" },
+        { "title": "Pertunjukan Busana Terbaru", "author": "Grace Taylor" },
+        {
+          "title": "Tampil Trendi dengan Budget Terbatas",
+          "author": "Oliver Smith"
+        }
+      ]
+    },
+    {
+      "name": "culinary",
+      "posts": [
+        { "title": "Resep Makanan Sehat", "author": "Emily Wilson" },
+        { "title": "Review Restoran Terbaru", "author": "Daniel Lee" },
+        { "title": "Makanan Tradisional Lokal", "author": "Sophia Brown" },
+        { "title": "Tren Makanan Vegan", "author": "Emma Johnson" },
+        { "title": "Kelezatan Makanan Asia", "author": "Oliver Taylor" },
+        {
+          "title": "Makanan Penutup yang Menggugah Selera",
+          "author": "Michael Clark"
+        },
+        { "title": "Wisata Kuliner di Kota Anda", "author": "Grace Martinez" },
+        { "title": "Makanan Ringan yang Sehat", "author": "William Wilson" },
+        { "title": "Makanan Berbahan Baku Lokal", "author": "Sophie Moore" },
+        {
+          "title": "Kuliner Eksotis dari Berbagai Negara",
+          "author": "Alexander Brown"
+        }
+      ]
+    }
+  ]
+}
